@@ -1,4 +1,4 @@
-# Distibition-Check Version 0.2
+# Distribition-Check Version 0.2
 
 This is a simple python script that checks a set of samples against more than
 80 different distributions. See also [www.aizac.info](http://www.aizac.info/simple-check-of-a-sample-against-80-distributions) for more information.
